@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "Nomor Kalian@s.whatsapp.net",
+    "ownerName": "Nama Kalian",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Nama Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "Nama Bot Kalian",
+    "sesidInsta": "default",
+    "sessionName": "Nama Kalian",
+    "txtDonasi": "GOPAY : No Gopay Kalian\nTrakteer : Trakteer Kalian\nSaweeria : Saweria Kalian\nPulsa : No Kalian",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
